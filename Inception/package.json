@@ -1,0 +1,19 @@
+{
+  "name": "practise",
+  "version": "1.0.0",
+  "description": "React course",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham25252/React-Notes.git"
+  },
+  "author": "shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubham25252/React-Notes/issues"
+  },
+  "homepage": "https://github.com/Shubham25252/React-Notes#readme"
+}
